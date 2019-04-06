@@ -3,6 +3,10 @@
 
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,700,300i,600i,700i|Raleway:600,800");
+@font-face { font-family: 'RoughTypewriter';
+             src: url('assets/fonts/rough_typewriter/rough_typewriter.otf') format('opentype'); }
+@font-face { font-family: '"Sami_bublegum 3';
+             src: url('assets/fonts/Sami_bublegum3-Regular.otf') format('opentype'); }
 
 /*
 	Paradigm Shift by HTML5 UP
