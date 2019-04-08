@@ -1,35 +1,24 @@
-
-
-
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,700,300i,600i,700i|Raleway:600,800");
-@font-face { font-family: 'RoughTypewriter';
-             src: url('assets/fonts/rough_typewriter/rough_typewriter.otf') format('opentype'); }
-@font-face { font-family: '"Sami_bublegum 3';
-             src: url('assets/fonts/Sami_bublegum3-Regular.otf') format('opentype'); }
 @font-face {
-  font-family: 'MomsTypewriter';
-  src: url('assets/fonts/MomsTypewriter.ttf') format('truetype'),
-       url('assets/fonts/MomsTypewriter.woff') format('woff');
+  font-family: 'RoughTypewriter';
+  src: url('https://meisterhora.github.io/assets/fonts/RoughTypewriter.eot');
+  src: url('https://meisterhora.github.io/assets/fonts/RoughTypewriter.eot?#iefix') format('embedded-opentype'),
+       url('https://meisterhora.github.io/assets/fonts/RoughTypewriter.svg#RoughTypewriter') format('svg'),
+       url('https://meisterhora.github.io/assets/fonts/RoughTypewriter.ttf') format('truetype'),
+       url('https://meisterhora.github.io/assets/fonts/RoughTypewriter.woff') format('woff'),
+       url('https://meisterhora.github.io/assets/fonts/RoughTypewriter.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'momstypewr';
-  src: url('assets/fonts/momstypewr.eot');
-  src: url('assets/fonts/momstypewr.eot?#iefix') format('embedded-opentype'),
-       url('assets/fonts/momstypewr.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
   font-family: 'Sami_bublegum3-Regular';
-  src: url('assets/fonts/Sami_bublegum3-Regular.eot');
-  src: url('assets/fonts/Sami_bublegum3-Regular.eot?#iefix') format('embedded-opentype'),
-       url('assets/fonts/Sami_bublegum3-Regular.ttf') format('truetype'),
-       url('assets/fonts/Sami_bublegum3-Regular.woff') format('woff'),
-       url('assets/fonts/Sami_bublegum3-Regular.woff2') format('woff2');
+  src: url('https://meisterhora.github.io/assets/fonts/Sami_bublegum3-Regular.eot');
+  src: url('https://meisterhora.github.io/assets/fonts/Sami_bublegum3-Regular.eot?#iefix') format('embedded-opentype'),
+       url('https://meisterhora.github.io/assets/fonts/Sami_bublegum3-Regular.ttf') format('truetype'),
+       url('https://meisterhora.github.io/assets/fonts/Sami_bublegum3-Regular.woff') format('woff'),
+       url('https://meisterhora.github.io/assets/fonts/Sami_bublegum3-Regular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
