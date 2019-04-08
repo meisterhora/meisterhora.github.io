@@ -7,6 +7,34 @@
              src: url('assets/fonts/rough_typewriter/rough_typewriter.otf') format('opentype'); }
 @font-face { font-family: '"Sami_bublegum 3';
              src: url('assets/fonts/Sami_bublegum3-Regular.otf') format('opentype'); }
+@font-face {
+  font-family: 'MomsTypewriter';
+  src: url('assets/fonts/MomsTypewriter.ttf') format('truetype'),
+       url('assets/fonts/MomsTypewriter.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'momstypewr';
+  src: url('assets/fonts/momstypewr.eot');
+  src: url('assets/fonts/momstypewr.eot?#iefix') format('embedded-opentype'),
+       url('assets/fonts/momstypewr.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sami_bublegum3-Regular';
+  src: url('assets/fonts/Sami_bublegum3-Regular.eot');
+  src: url('assets/fonts/Sami_bublegum3-Regular.eot?#iefix') format('embedded-opentype'),
+       url('assets/fonts/Sami_bublegum3-Regular.ttf') format('truetype'),
+       url('assets/fonts/Sami_bublegum3-Regular.woff') format('woff'),
+       url('assets/fonts/Sami_bublegum3-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 
 /*
 	Paradigm Shift by HTML5 UP
