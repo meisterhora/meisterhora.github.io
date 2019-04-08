@@ -235,7 +235,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
-		font-family: "Sami_bublegum 3", sans-serif;
+		font-family: "Sami_bublegum3-Regular", sans-serif;
 		font-weight: 400;
 		line-height: 1.75;
 		margin: 0 0 1.5rem 0;
@@ -247,7 +247,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-family: "Sami_bublegum 3",  sans-serif;
+		font-family: "Sami_bublegum3-Regular",  sans-serif;
 		font-size: 7rem;
 		font-weight: 400;
 		letter-spacing: -0.05em;
