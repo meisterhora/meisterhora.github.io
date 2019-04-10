@@ -275,25 +275,25 @@ input, select, textarea {
 		}
 
 		h2 {
-			font-size: 1.25rem;
+			font-size: 3.25rem;
 			line-height: 1.7;
 		}
 
 		h3 {
-			font-size: 0.9rem;
+			font-size: 1.9rem;
 		}
 
 		h4 {
-			font-size: 0.75rem;
+			font-size: 1.75rem;
 		}
 
 		h5 {
-			font-size: 0.675rem;
+			font-size: 1.675rem;
 		}
 
 	}
 
-	@media screen and (max-width: 360px) {
+/*	@media screen and (max-width: 360px) {
 
 		h1 {
 			font-size: 3.75rem;
@@ -315,7 +315,7 @@ input, select, textarea {
 			font-size: 0.675rem;
 		}
 
-	}
+	}*/
 
 	sub {
 		font-size: 0.8rem;
@@ -1600,7 +1600,7 @@ input, select, textarea {
 						}
 
 		}
-
+/*
 		@media screen and (max-width: 480px) {
 
 			.row {
@@ -1844,7 +1844,7 @@ input, select, textarea {
 							padding-top: 2.5rem;
 						}
 
-		}
+		}*/
 
 /* Box */
 
